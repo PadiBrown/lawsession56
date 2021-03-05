@@ -11,4 +11,4 @@ except ZeroDivisionError:
 else:
     print("you were born around", 2021-age)
 finally:
-    print("Thanks for paying my game")
+    print("Thanks for playing my game")
